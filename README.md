@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Site above 375px width](./screenshot/screenshot1.png)
-![Mobile Site at 375px](./screenshot/screenshot2.png)
+![Desktop Site above 375px width](./screenshot/Screenshot1.png)
+![Mobile Site at 375px](./screenshot/Screenshot2.png)
 
 ### Links
 
