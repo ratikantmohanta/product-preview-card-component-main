@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ratikantmohanta/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://ratikantmohanta.github.io/product-preview-card-component-main/)
+- Solution URL: [Solution URL here](https://github.com/ratikantmohanta/product-preview-card-component-main)
+- Live Site URL: [Live site URL here](https://ratikantmohanta.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -48,7 +48,7 @@ Users should be able to:
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
-To see how you can add code snippets, see below:
+To see code snippets, see below:
 
     @media (max-width: 375px) {
     .container {
@@ -87,9 +87,9 @@ To see how you can add code snippets, see below:
 
 ### Useful resources
 
-- [1](https://balsamiq.cloud) - This helped me for wireframing.
-- [2](https://css3buttongenerator.com/) - This helped me in designing the button.
-- [3](https://fonts.google.com) - Selecting desired Fonts.
+- [1 - balsamiq.cloud](https://balsamiq.cloud) - This helped me for wireframing.
+- [2 - css3buttongenerator.com](https://css3buttongenerator.com/) - This helped me in designing the button.
+- [3 - fonts.google.com](https://fonts.google.com) - Selecting desired Fonts.
 
 ## Author
 
