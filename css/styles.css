@@ -25,6 +25,15 @@ strike {
     bottom: 4px;
 }
 
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
 .container {
     background-color: hsl(0, 0%, 100%);
     border-radius: 8px;
